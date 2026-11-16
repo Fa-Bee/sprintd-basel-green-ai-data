@@ -9,6 +9,7 @@ The **usage and volume data are synthetic** (made up) and describe a fictitious 
 ## Documents
 - `documents/Factsheet_Green_AI_Data_sprintd_Basel_EN.pdf`: the case on one page
 - `documents/Presentation_Green_AI_Data_sprintd_Basel_EN.html`: the case presentation from the kick-off. Download it and open it in a browser; use the arrow keys or the space bar to move on
+- `documents/Presentation_Green_AI_Data_sprintd_Basel_EN.pdf`: the same presentation as a PDF
 
 ## Contents of the package
 - `README.md`: this overview (download as ZIP: green «Code» button, then «Download ZIP»)
