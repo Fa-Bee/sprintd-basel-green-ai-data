@@ -6,6 +6,14 @@ The **usage and volume data are synthetic** (made up) and describe a fictitious 
 **Data as of:** 06.09.2026 · **Period:** 01.11.2024 to 06.09.2026 (hourly, daily, weekly or monthly depending on the source)
 **Delivery:** ZIP with README at the kick-off, plus the link to the GitHub repository with all files.
 
+## Start here
+- **Your task:** show where cloud, servers, AI and SaaS create costs, energy and CO₂ in a Basel SME, and choose safe measures against it.
+- **Must-have functions:** Connect · Find · Decide · Know the limits (details below).
+- **Target:** CO₂ −40 % (location-based) and costs −25 % per year, with at most CHF 16,500 implementation effort (15 person-days).
+- **Submit by Sunday 08:30:** your prototype plus the two filled-in templates (`template_baseline_and_assumptions.csv`, `template_measures_package.csv`).
+- **Pitch on Sunday from 09:00:** 5 minutes live demo, 3 minutes questions.
+- **Start with:** the 13 files in this folder, `data_dictionary.md` and `example_questions.md`.
+
 ## Documents
 - `documents/Factsheet_Green_AI_Data_sprintd_Basel_EN.pdf`: the case on one page
 - `documents/Presentation_Green_AI_Data_sprintd_Basel_EN.html`: the case presentation from the kick-off. Download it and open it in a browser; use the arrow keys or the space bar to move on
